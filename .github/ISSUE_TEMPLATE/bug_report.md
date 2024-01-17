@@ -21,7 +21,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem. **If they are NSFW screenshots please upload them but don't embed them by removing the tags surrounding the image URL**
+If applicable, add screenshots to help explain your problem. **If they are NSFW screenshots please upload them but don't embed them (you can do this by removing the tags surrounding the image URL after you drop the image here)**
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows, Linux, Mac]
